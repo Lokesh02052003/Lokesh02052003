@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Lokesh
-- 👀 I’m interested in ... python and ui/ux
+- 👀 I’m interested in ... python 
 - 🌱 I’m currently completed my graduation ... in 2024
-- 💞️ I’m looking to collaborate on ... ui/ux
-- 📫 How to reach me ... my mail id - starlordloki0@gmail.com
+
+- 📫 How to reach me ... my mail id - lokeshu731@gnail.com
 - 😄 Pronouns: ... learning new things makes betterment ...
-- ⚡ Fun fact: ... Really i dont know nothing about coding please help me!!! 
+  
 
 <!---
 Lokesh02052003/Lokesh02052003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
